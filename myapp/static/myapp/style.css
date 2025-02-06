@@ -1,0 +1,9 @@
+.banner{
+     background-color: aliceblue; 
+    text-align: center;
+    margin: 12px;
+    padding: 5px;
+}
+.banner-text{
+    color: darkblue;
+}
